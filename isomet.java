@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 
-public class repeat {
+public class isomet {
 
     public static void main(String aa[]) {
         String a;
