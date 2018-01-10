@@ -20,7 +20,7 @@ if(f==1){
 System.out.println("yes");
 }
 else{
-System.ou.println("no);
+System.out.println("no);
 }
 
 }
