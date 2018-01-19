@@ -12,7 +12,6 @@ public class diffs{
         xx.insert(m+1, ']');
         String c=xx.toString();
         String z=b.replaceAll(c, "");
-        System.out.print(z);
         if(z.length()==kk){
             System.out.println("Yes");
         }
