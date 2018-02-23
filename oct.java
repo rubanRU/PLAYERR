@@ -1,5 +1,5 @@
 mport java.util.*;
-public class hex{
+public class oct{
   public static void main(String aa[]){
       int h;
       Scanner s=new Scanner(System.in);
